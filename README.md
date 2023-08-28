@@ -1,2 +1,2 @@
 # Develhope-html-ejercicio-8-CARD
-Este es el ejercicio 8 de HTML del curso de Develhope.
+Este es el ejercicio 8 de HTML del curso de Develhope. El ejercicio trata de hacer una tarjeta (o CARD) sin utilizar CSS, sin embargo yo he usado tanto HTML como CSS (dentro del HTML) para hacerla, ya que he hecho el ejercicio una vez que hemos empezado a ver algo de CSS y quería practicar también esa parte. Además así he dado formato a la tarjeta para que visualmente se pareciera más a la que nos dieron de ejemplo en la foto del ejercicio. 
